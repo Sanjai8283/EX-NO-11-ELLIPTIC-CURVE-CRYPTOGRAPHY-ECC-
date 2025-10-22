@@ -113,8 +113,6 @@ int main() {
     return 0;
 }
 ```
-### Developed by : Sudharsanan U
-### Reg No : 212224230276
 
 ## Output:
 <img width="804" height="419" alt="image" src="https://github.com/user-attachments/assets/0ba41e6c-2b39-4648-885b-8f5f08b11231" />
